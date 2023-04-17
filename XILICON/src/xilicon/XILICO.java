@@ -44,9 +44,9 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.Random;
 
-    public class XILICO_804K {
+    public class XILICO {
         public static void main(String[] args) throws IOException, InterruptedException {
-            System.out.println("LOADING XILICO-804K");
+            System.out.println("LOADING XILICO");
             String filePath = "train.txt";
             PreprocessedData preprocessedData = new PreprocessedData(filePath);
 

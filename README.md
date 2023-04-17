@@ -1,4 +1,4 @@
-# XILICO-804K
+# XILICO
 
 Xilicon is a text generation package based on the Deeplearning4j framework. It trains a deep recurrent neural network (RNN) using Long Short-Term Memory (LSTM) layers on a given text dataset to learn and predict sequences of text. The generated text imitates the style and structure of the training data, which makes it suitable for various applications such as text generation, chatbots, and more.
 
